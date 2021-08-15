@@ -1,0 +1,24 @@
+.transactionTistory {
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+  border: 3px solid purple;
+}
+th,
+td:first-child {
+  background: #afcde7;
+  padding: 10px 20px;
+}
+th,
+td {
+  border-style: solid;
+  border-width: 0 1px 1px 0;
+  border-color: white;
+}
+td {
+  background: #d8e6f3;
+}
+th:first-child,
+td:first-child {
+  text-align: left;
+}

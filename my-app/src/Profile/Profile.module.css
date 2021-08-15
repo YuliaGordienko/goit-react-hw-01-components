@@ -1,0 +1,13 @@
+.avatar {
+  width: 200px;
+  height: 200px;
+}
+.stats {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.statItem {
+  list-style: none;
+  margin-right: 15px;
+}

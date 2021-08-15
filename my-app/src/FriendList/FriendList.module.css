@@ -1,0 +1,13 @@
+.red::before {
+  color: red;
+  content: ' \25CF';
+  font-size: 20px;
+}
+.green::before {
+  color: green;
+  content: ' \25CF';
+  font-size: 20px;
+}
+.item {
+  list-style: none;
+}
